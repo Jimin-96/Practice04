@@ -12,7 +12,7 @@ public class Ex05 {
 		int[] a = new int[5];
 		int sum = 0;
 		int result = 0;
-
+//
 		for (int i = 0; i <a.length; i++) {
 		    sum = sc.nextInt();
 			a[i]=sum;

@@ -8,7 +8,7 @@ public class Ex06 {
 
 		for (int i = 0; i < c.length; i++) {
 			System.out.print(c[i]);
-
+//
 		}
 		System.out.println("");
 		for (int a = 0; a < c.length; a++) {

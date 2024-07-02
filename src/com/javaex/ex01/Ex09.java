@@ -9,7 +9,7 @@
 //		System.out.print("금액:");
 //		int sum = sc.nextInt();
 //		sc.close();
-//
+////
 //		int[] won = new int[10];
 //		int[] won1;
 //		won1 =won;

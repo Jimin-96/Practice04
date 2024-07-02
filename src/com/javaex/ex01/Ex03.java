@@ -8,7 +8,7 @@ public class Ex03 {
 		int[] intA = {3,6,9};
 		int[] intB;
 		intB = intA;
-		intB[0] = 20;
+		intB[0] = 20;//
 		intB[2] = 10;
 		
 		for(int i =0;i<intA.length;i++) {

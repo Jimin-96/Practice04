@@ -16,7 +16,7 @@ public class Ex07 {
 		coin[1] = 10000; 
 		coin[2] = 5000; 
 		coin[3] = 1000; 
-		coin[4] = 500; 
+		coin[4] = 500; //
 		coin[5] = 100; 
 		coin[6] = 50; 
 		coin[7] = 10; 
