@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex05 {
 
 	public static void main(String[] args) {
-//		5개의 숫자를 키보드로 입력받아 평균을 구하는 프로그램을 작성하세요..
+//		5개의 숫자를 키보드로 입력받아 평균을 구하는 프로그램을 작성하세요.
 
 		Scanner sc = new Scanner(System.in);
 
